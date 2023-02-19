@@ -9,8 +9,11 @@ Github is of Microsoft.
 Please, don't use Github. Github != git. If you need a place to host the
 repositories consider these services:
 	* https://repo.or.cz
-	* https://rocketgit.com
+	* https://codeberg.org
+	* https://sr.ht
 	* your own instance of git + cgit <3
 
-Github sucks! Don't suck with it!
+Also, look at https://github.com/igoose1/GITHUB-SUCKS/issues/1 for other
+options.
 
+Github sucks! Don't suck with it!
